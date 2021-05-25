@@ -1,0 +1,9 @@
+baseURL = "https://midor.cc"
+languageCode = "zh-cn"
+theme = "purehugo"
+title = "Midor's Blog"
+[params]
+githubName = "Midor1"
+linkedinName = "chuanjia-hou-1a2690157"
+description = "Midor's Secret Base"
+hideShareOptions = true
